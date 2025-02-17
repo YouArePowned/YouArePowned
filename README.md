@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am interested in the scripting and ethical hacking sector, among other computer science topics.
 
-- 👨‍🎓 I am currently studying computer engineering and I am a senior technician in Industrial Automation and Robotics.
+- 👨‍🎓 I am currently studying multimedia engineering and I am a senior technician in Industrial Automation and Robotics.
 
 - 👥 I am open to collaborating with people on pentesting projects, web programming and other types of projects.
 
